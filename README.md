@@ -1,5 +1,3 @@
 Just random python projects
-
-Feel free to give pointers/tips 
-
+Feel free to give pointers/tips
 Discord: heyflay
